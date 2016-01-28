@@ -1,0 +1,10 @@
+## Go
+bin
+pkg
+
+## IntelliJ
+.idea
+*.iml
+
+## app generated files
+*.log
