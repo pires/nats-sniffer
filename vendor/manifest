@@ -1,0 +1,81 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/golang/protobuf/proto",
+			"repository": "https://github.com/golang/protobuf",
+			"revision": "6aaa8d47701fa6cf07e914ec01fde3d4a1fe79c3",
+			"branch": "master",
+			"path": "/proto"
+		},
+		{
+			"importpath": "github.com/nats-io/gnatsd/auth",
+			"repository": "https://github.com/nats-io/gnatsd",
+			"revision": "972b9c18ac61bed63d8ea6fbba3a9eb03b18d1b8",
+			"branch": "master",
+			"path": "/auth"
+		},
+		{
+			"importpath": "github.com/nats-io/gnatsd/conf",
+			"repository": "https://github.com/nats-io/gnatsd",
+			"revision": "972b9c18ac61bed63d8ea6fbba3a9eb03b18d1b8",
+			"branch": "master",
+			"path": "/conf"
+		},
+		{
+			"importpath": "github.com/nats-io/gnatsd/hash",
+			"repository": "https://github.com/nats-io/gnatsd",
+			"revision": "972b9c18ac61bed63d8ea6fbba3a9eb03b18d1b8",
+			"branch": "master",
+			"path": "/hash"
+		},
+		{
+			"importpath": "github.com/nats-io/gnatsd/hashmap",
+			"repository": "https://github.com/nats-io/gnatsd",
+			"revision": "972b9c18ac61bed63d8ea6fbba3a9eb03b18d1b8",
+			"branch": "master",
+			"path": "/hashmap"
+		},
+		{
+			"importpath": "github.com/nats-io/gnatsd/server",
+			"repository": "https://github.com/nats-io/gnatsd",
+			"revision": "972b9c18ac61bed63d8ea6fbba3a9eb03b18d1b8",
+			"branch": "master",
+			"path": "/server"
+		},
+		{
+			"importpath": "github.com/nats-io/gnatsd/sublist",
+			"repository": "https://github.com/nats-io/gnatsd",
+			"revision": "972b9c18ac61bed63d8ea6fbba3a9eb03b18d1b8",
+			"branch": "master",
+			"path": "/sublist"
+		},
+		{
+			"importpath": "github.com/nats-io/gnatsd/test",
+			"repository": "https://github.com/nats-io/gnatsd",
+			"revision": "972b9c18ac61bed63d8ea6fbba3a9eb03b18d1b8",
+			"branch": "master",
+			"path": "/test"
+		},
+		{
+			"importpath": "github.com/nats-io/nats",
+			"repository": "https://github.com/nats-io/nats",
+			"revision": "2d075b47654d8e1c8316253609dfcb05b416d914",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/crypto/bcrypt",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "1f22c0103821b9390939b6776727195525381532",
+			"branch": "master",
+			"path": "/bcrypt"
+		},
+		{
+			"importpath": "golang.org/x/crypto/blowfish",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "1f22c0103821b9390939b6776727195525381532",
+			"branch": "master",
+			"path": "/blowfish"
+		}
+	]
+}
