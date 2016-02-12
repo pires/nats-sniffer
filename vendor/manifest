@@ -64,6 +64,19 @@
 			"branch": "master"
 		},
 		{
+			"importpath": "github.com/satori/go.uuid",
+			"repository": "https://github.com/satori/go.uuid",
+			"revision": "d41af8bb6a7704f00bc3b7cba9355ae6a5a80048",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/sreis/gotemplates/concurrentmap",
+			"repository": "https://github.com/sreis/gotemplates",
+			"revision": "e336b017283a9e3d8a4318af478e337a14475ab0",
+			"branch": "master",
+			"path": "/concurrentmap"
+		},
+		{
 			"importpath": "golang.org/x/crypto/bcrypt",
 			"repository": "https://go.googlesource.com/crypto",
 			"revision": "1f22c0103821b9390939b6776727195525381532",
