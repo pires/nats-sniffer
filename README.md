@@ -1,5 +1,5 @@
 # nats-sniffer
-A simple snigger for [NATS](https://nats.io), the cloud native messaging system.
+A simple sniffer for [NATS](https://nats.io), the cloud native messaging system.
 
 ## Pre-requisites
 
